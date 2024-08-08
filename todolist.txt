@@ -1,0 +1,13 @@
+instalar dependencias 
+criar camadas -> service, controller, repository.... seguir clean code 
+usar trello para acompanhar desenvolvimento projeto: fazer etapas e entregar dentro do prazo definido 
+
+1- usar swagger 
+2- com o swagger criar as requisições do postman
+
+banco de dados:
+- criar banco de dados
+- criar tabelas
+- criar relacionamentos
+- criar views
+- criar queries (serão utilizadas no repository)
