@@ -15,44 +15,44 @@ public class Venda {
     public Vendedor vendedor;
     public Pagamento pagamento;
     public Cliente cliente;
-    public integer id;
+    public Integer id;
     
-    public integer getId() {
+    public Integer getId() {
         return id;
     }
-    
-    public void setId(integer id) {
+
+    public void setId(Integer id) {
         this.id = id;
     }
-    
+
     public Reserva getReserva() {
         return reserva;
     }
-    
+
     public void setReserva(Reserva reserva) {
         this.reserva = reserva;
     }
-    
+
     public Vendedor getVendedor() {
         return vendedor;
     }
-    
+
     public void setVendedor(Vendedor vendedor) {
         this.vendedor = vendedor;
     }
-    
+
     public Pagamento getPagamento() {
         return pagamento;
     }
-    
+
     public void setPagamento(Pagamento pagamento) {
         this.pagamento = pagamento;
     }
-    
+
     public Cliente getCliente() {
         return cliente;
     }
-    
+
     public void setCliente(Cliente cliente) {
         this.cliente = cliente;
     }

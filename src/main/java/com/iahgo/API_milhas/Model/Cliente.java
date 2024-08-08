@@ -11,13 +11,13 @@ public class Cliente {
     public String cpf;
     public String email;
     public String endereco;
-    public integer id;
+    public Integer id;
     
-    public integer getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(integer id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

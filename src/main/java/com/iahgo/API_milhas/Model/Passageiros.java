@@ -15,13 +15,13 @@ public class Passageiros {
     public String email;
     public String telefone;
     public Boolean isAdulto;
-    public integer id;
+    public Integer id;
     
-    public integer getId() {
+    public Integer getId() {
         return id;
     }
-    
-    public void setId(integer id) {
+
+    public void setId(Integer id) {
         this.id = id;
     }
 

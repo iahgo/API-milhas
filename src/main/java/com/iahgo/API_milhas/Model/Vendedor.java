@@ -8,15 +8,15 @@ public class Vendedor {
     public Vendedor() {
     }
 
-    public integer id;
+    public Integer id;
     public String nome;
     public String email;
     
-    public integer getId() {
+    public Integer getId() {
         return id;
     }
     
-    public void setId(integer id) {
+    public void setId(Integer id) {
         this.id = id;
     }
     
