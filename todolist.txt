@@ -11,3 +11,4 @@ banco de dados:
 - criar relacionamentos
 - criar views
 - criar queries (serão utilizadas no repository)
+sss
