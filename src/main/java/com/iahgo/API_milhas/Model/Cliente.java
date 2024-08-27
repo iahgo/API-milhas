@@ -1,5 +1,4 @@
-
-import java.util.*;
+package com.iahgo.API_milhas.Model;
 
 public class Cliente {
 

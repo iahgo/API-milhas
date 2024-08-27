@@ -1,0 +1,8 @@
+Vendedor,João Silva,123.456.789-00,joao.silva@example.com
+Vendedor,Maria Oliveira,987.654.321-00,maria.oliveira@example.com
+Venda,Venda 1,100.00,1
+Venda,Venda 2,200.00,2
+Cliente,Carlos Souza,111.222.333-44,carlos.souza@example.com
+Cliente,Ana Lima,555.666.777-88,ana.lima@example.com
+Passageiro,Pedro Santos,999.888.777-66,1
+Passageiro,Juliana Costa,444.333.222-11,2

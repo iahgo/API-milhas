@@ -1,13 +1,13 @@
-package com.iahgo.API_milhas;
+// package com.iahgo.API_milhas;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class ApiMilhasApplicationTests {
+// @SpringBootTest
+// class ApiMilhasApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }

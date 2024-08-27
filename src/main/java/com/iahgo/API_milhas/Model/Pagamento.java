@@ -1,5 +1,5 @@
-
-import java.util.*;
+package com.iahgo.API_milhas.Model;
+import java.util.Date;
 
 
 public class Pagamento {

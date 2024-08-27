@@ -1,5 +1,6 @@
+package com.iahgo.API_milhas.Model;
 
-import java.util.*;
+import java.util.Date;
 
 
 public class Passageiros {

@@ -1,7 +1,4 @@
-import com.iahgo.API_milhas.Model.Passageiros;
-
-import java.util.*;
-
+package com.iahgo.API_milhas.Model;
 
 public class Reserva {
 
@@ -10,9 +7,7 @@ public class Reserva {
     }
 
     public String codigoReserva;
-    public Date dataEmissao;
     public String companhia;
-    public Voo voo;
     public Passageiros passageiro;
     public Integer id;
     
@@ -32,28 +27,12 @@ public class Reserva {
         this.codigoReserva = codigoReserva;
     }
 
-    public Date getDataEmissao() {
-        return dataEmissao;
-    }
-
-    public void setDataEmissao(Date dataEmissao) {
-        this.dataEmissao = dataEmissao;
-    }
-
     public String getCompanhia() {
         return companhia;
     }
 
     public void setCompanhia(String companhia) {
         this.companhia = companhia;
-    }
-
-    public Voo getVoo() {
-        return voo;
-    }
-
-    public void setVoo(Voo voo) {
-        this.voo = voo;
     }
 
     public Passageiros getPassageiro() {
